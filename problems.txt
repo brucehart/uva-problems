@@ -1,0 +1,15 @@
+776 - Monkeys in a Regular Forest
+294 - Divisors
+801 - Flight Planning
+603 - Parking Lot
+100 - The 3n + 1 problem
+565 - Pizza Anyone?
+572 - Oil Deposits
+11900 - Boiled Eggs
+
+
+Completed:
+554 - Caesar Cypher
+740 - Baudot Data Communication Code
+11000 - Bee
+12602 - Nice License Plates
