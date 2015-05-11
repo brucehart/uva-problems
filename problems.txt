@@ -1,14 +1,24 @@
+130 - Roman Roulette
+148 - Anagram checker
 776 - Monkeys in a Regular Forest
+230 - Borrowers
+283 - Compress
+^324 - Factorial Frequencies
 294 - Divisors
+^424 - Integer Inquiry
 801 - Flight Planning
 603 - Parking Lot
 100 - The 3n + 1 problem
 565 - Pizza Anyone?
 572 - Oil Deposits
 11900 - Boiled Eggs
+1309 - Sudoku
+1398 - Meteor
+11802 - All Your Bases Belong to Us
 
 
 Completed:
+131 - The Psychic Poker Player
 554 - Caesar Cypher
 740 - Baudot Data Communication Code
 11000 - Bee
