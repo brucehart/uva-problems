@@ -3,7 +3,6 @@
 776 - Monkeys in a Regular Forest
 230 - Borrowers
 283 - Compress
-^324 - Factorial Frequencies
 294 - Divisors
 ^424 - Integer Inquiry
 801 - Flight Planning
@@ -19,6 +18,7 @@
 
 Completed:
 131 - The Psychic Poker Player
+324 - Factorial Frequencies
 554 - Caesar Cypher
 740 - Baudot Data Communication Code
 11000 - Bee
